@@ -10,3 +10,14 @@ html {
    background-size: cover;
    font-family: 'Montserrat', sans-serif;
 }
+
+#root {
+ font-family: 'Montserrat', sans-serif;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ min-height: 100vh;
+ background-image: url("background.jpg");
+ background-size: cover;
+ background-position: center;
+};
