@@ -1,6 +1,7 @@
 import './Form.css';
 import { currencies } from '../currencies';
 import { Result } from './Result';
+import { useState } from 'react';
 
   export const Form = ({ calculateResult, result }) => {
     const [currency, setCurrency] = useState(currencies[0].short);
@@ -52,9 +53,8 @@ import { Result } from './Result';
           </p>
           <p className="form__paragraph">Wartość w PLN: <strong className=""></strong></p>
           <button className="form__button ">Przelicz</button>
+          <Result result={result} />
         </fieldset>
-
-        <Result result={result} />
       </form>
     );
   };
