@@ -1,7 +1,7 @@
 import './Result.css';
 
 export const Result = ({ result }) => (
-    <p class Name="result">
+    <p className="result">
         {result !== undefined && (
             <>
             {result.sourceAmount.toFixed(2)}&nbsp;PLN&nbsp;=
