@@ -19,7 +19,13 @@
 .form__field {
     margin: 0 auto;
     padding: 5px;
-    width: 70px;
+    width: 50%;
+}
+
+@media (max-width: 767px) {
+    .form__field {
+        width: 100%;
+    }
 }
 
 .form__labelText {
