@@ -2,6 +2,12 @@
 
 This is my tool for creating a currency converter. 
 
+![page image](https://github.com/Arkadiusz-Binkiewicz/currency-converter-react/blob/main/public/images/taskslist.gif?raw=true)
+
+## Demo
+
+https://arkadiusz-binkiewicz.github.io/currency-converter-react/
+
 ### Author
 
 [Arkadiusz Binkiewicz](https://github.com/Arkadiusz-Binkiewicz)
