@@ -2,7 +2,7 @@
 
 This is my tool for creating a currency converter. 
 
-![page image](https://github.com/Arkadiusz-Binkiewicz/currency-converter-react/blob/main/public/images/taskslist.gif?raw=true)
+![page image](https://github.com/Arkadiusz-Binkiewicz/currency-converter-react/blob/main/public/images/currencyconverter.gif?raw=true)
 
 ## Demo
 
