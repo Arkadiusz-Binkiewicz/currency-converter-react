@@ -17,8 +17,8 @@ import { Clock } from "./Clock";
       <form className="form" onSubmit={onSubmit}>
         <fieldset className="form__fieldset">
           <legend className="form__legend">Kalkulator walutowy</legend>
+          <Clock/>
           <p>
-            <Clock/>
             <label>
               <span className="form__labelText">Kwota:</span>
             </label>
